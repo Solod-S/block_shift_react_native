@@ -6,7 +6,7 @@
  * Rotation 3: 270 deg clockwise / 90 deg CCW (L)
  */
 
-import { PIECE_COLORS, PIECE_TYPES } from './constants';
+import { PIECE_COLORS, PIECE_TYPES } from './constants.js';
 
 export const PIECES = {
   [PIECE_TYPES.I]: {
